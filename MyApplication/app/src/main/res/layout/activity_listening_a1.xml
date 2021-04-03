@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ListeningA1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="match_parent"
+            android:layout_height="62dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/listeningaunu"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            app:autoSizeTextType="uniform" />
+
+        <ImageView
+            android:id="@+id/imageView14"
+            android:layout_width="wrap_content"
+            android:layout_height="264dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/mlmlm"
+            app:srcCompat="@drawable/listeningaa" />
+
+        <EditText
+            android:id="@+id/listA11"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_1"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/listA12"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_2"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/listA13"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_3"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/listA14"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_4"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/listA15"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_5"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+
+        <ImageView
+            android:id="@+id/imageView16"
+            android:layout_width="wrap_content"
+            android:layout_height="306dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/mlmlm"
+            app:srcCompat="@drawable/listeningab" />
+
+        <EditText
+            android:id="@+id/listA16"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_1"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/listA17"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_2"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/listA18"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_3"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/listA19"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_4"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/listA110"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_5"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/listA111"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_6"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <ImageView
+            android:id="@+id/imageView19"
+            android:layout_width="wrap_content"
+            android:layout_height="318dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/mlmlm"
+            app:srcCompat="@drawable/listeningab" />
+
+        <EditText
+            android:id="@+id/listA112"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_1"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/listA113"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_2"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/listA114"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_3"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/listA115"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_4"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/listA116"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_5"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/listA117"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_6"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/listA118"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_7"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <Button
+            android:id="@+id/playListA1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/play" />
+
+        <Button
+            android:id="@+id/stopListA1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/stopLista1" />
+
+        <Button
+            android:id="@+id/finlistA1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/Finish" />
+
+        <TextView
+            android:id="@+id/viewListA1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:text=""
+            tools:ignore="LabelFor" />
+
+
+    </LinearLayout>
+
+</ScrollView>

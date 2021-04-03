@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PresentSImpleEx">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/imageView69"
+            android:layout_width="410dp"
+            android:layout_height="612dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/exercitiipresentsimple"
+            android:contentDescription="@string/todo" />
+
+        <EditText
+            android:id="@+id/present1"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="12"
+            android:inputType="textPersonName"
+            android:text="@string/_1"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present2"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="12"
+            android:inputType="textPersonName"
+            android:text="@string/doiunuu"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present3"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/doidoi"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            tools:targetApi="o" />
+
+        <EditText
+            android:id="@+id/present4"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/treiunu"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present5"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_3.2"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present6"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="12"
+            android:inputType="textPersonName"
+            android:text="@string/_4"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present7"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="12"
+            android:inputType="textPersonName"
+            android:text="@string/dwxsa"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present8"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/fcdsx"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present9"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/efcdsxa"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present10"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/fvecdsx"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present11"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_7"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present12"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_8"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present13"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="12"
+            android:inputType="textPersonName"
+            android:text="@string/_9"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present14"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="12"
+            android:inputType="textPersonName"
+            android:text="@string/zeceunu"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present15"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/zcedoi"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present16"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_11"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present17"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_12_1"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present18"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_12_2"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present19"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_13_1"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present20"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_13_2"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present21"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="12"
+            android:inputType="textPersonName"
+            android:text="@string/_14"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present22"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="12"
+            android:inputType="textPersonName"
+            android:text="@string/_15"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present23"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_16"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present24"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_17"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present25"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_18"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present26"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_19_1"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present27"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_19doi"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/present28"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_20"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <Button
+            android:id="@+id/finpresent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/Finish" />
+
+        <TextView
+            android:id="@+id/viewPresent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:text="" />
+    </LinearLayout>
+
+</ScrollView>

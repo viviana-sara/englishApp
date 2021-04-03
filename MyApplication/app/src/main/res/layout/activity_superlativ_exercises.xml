@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SuperlativExercises">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="78dp"
+            android:gravity="center"
+            android:text="@string/adjectives_degrees_of_comparison"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            app:autoSizeTextType="uniform" />
+
+        <ImageView
+            android:id="@+id/imageView67"
+            android:layout_width="410dp"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/dsaxzzzzzz"
+            app:srcCompat="@drawable/exercitiisuperlative" />
+
+        <EditText
+            android:id="@+id/super1"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="12"
+            android:inputType="textPersonName"
+            android:text="@string/_1"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/super2"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:layout_weight="1"
+            android:textSize="12sp"
+            android:ems="12"
+            android:inputType="textPersonName"
+            android:text="@string/_2" />
+
+        <EditText
+            android:id="@+id/super3"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:layout_weight="1"
+            android:ems="10"
+            android:textSize="12sp"
+            android:inputType="textPersonName"
+            android:text="@string/_3"
+            tools:targetApi="o" />
+
+        <EditText
+            android:id="@+id/super4"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:layout_weight="1"
+            android:ems="10"
+            android:textSize="12sp"
+            android:inputType="textPersonName"
+            android:text="@string/_4" />
+
+        <EditText
+            android:id="@+id/super5"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:layout_weight="1"
+            android:ems="10"
+            android:textSize="12sp"
+            android:inputType="textPersonName"
+            android:text="@string/_5" />
+
+        <EditText
+            android:id="@+id/super6"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:layout_weight="1"
+            android:ems="12"
+            android:textSize="12sp"
+            android:inputType="textPersonName"
+            android:text="@string/_6" />
+
+        <EditText
+            android:id="@+id/super7"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:layout_weight="1"
+            android:ems="12"
+            android:textSize="12sp"
+            android:inputType="textPersonName"
+            android:text="@string/_7" />
+
+        <EditText
+            android:id="@+id/super8"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/cxxxxcxcxc"
+            android:textSize="12sp"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/super9"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/xcxxzzzz"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints="" />
+
+        <EditText
+            android:id="@+id/super10"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:layout_weight="1"
+            android:ems="10"
+            android:textSize="12sp"
+            android:inputType="textPersonName"
+            android:text="@string/_opt2" />
+
+        <EditText
+            android:id="@+id/super11"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:layout_weight="1"
+            android:ems="10"
+            android:textSize="12sp"
+            android:inputType="textPersonName"
+            android:text="@string/_9" />
+
+        <EditText
+            android:id="@+id/super12"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            tools:ignore="LabelFor"
+            android:textSize="12sp"
+            android:autofillHints=""
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_10" />
+
+        <EditText
+            android:id="@+id/super13"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:layout_weight="1"
+            android:ems="10"
+            android:textSize="12sp"
+            android:inputType="textPersonName"
+            android:text="@string/_11" />
+
+        <Button
+            android:id="@+id/finsuper"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/Finish" />
+
+        <TextView
+            android:id="@+id/viewSuper"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:text="" />
+    </LinearLayout>
+
+</ScrollView>

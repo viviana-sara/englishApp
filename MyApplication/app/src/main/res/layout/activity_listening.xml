@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PracticeActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            android:gravity="center"
+            android:text="@string/practice"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            app:autoSizeTextType="uniform"
+            tools:layout_editor_absoluteX="21dp"
+            tools:layout_editor_absoluteY="26dp" />
+
+        <ImageView
+            android:id="@+id/imageView15"
+            android:layout_width="match_parent"
+            android:layout_height="283dp"
+            android:contentDescription="@string/vcxvc"
+            android:src="@drawable/practice" />
+
+        <Button
+            android:id="@+id/practicePron"
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:text="@string/pronouns"
+            tools:layout_editor_absoluteX="35dp"
+            tools:layout_editor_absoluteY="355dp" />
+
+        <Button
+            android:id="@+id/practiceNum"
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:text="@string/numbers_chart"
+            tools:layout_editor_absoluteX="35dp"
+            tools:layout_editor_absoluteY="564dp" />
+
+        <Button
+            android:id="@+id/practicePast"
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:text="@string/past_simple_and_continuous2"
+            tools:layout_editor_absoluteX="35dp"
+            tools:layout_editor_absoluteY="505dp" />
+
+        <Button
+            android:id="@+id/practicePresent"
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:text="@string/present_simple_and_continuous"
+            tools:layout_editor_absoluteX="35dp"
+            tools:layout_editor_absoluteY="402dp" />
+
+        <Button
+            android:id="@+id/practicePlural"
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:text="@string/plural_nouns"
+            tools:layout_editor_absoluteX="35dp"
+            tools:layout_editor_absoluteY="449dp" />
+
+        <Button
+            android:id="@+id/practiceSuper"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/adjectives_degrees_of_comparison3" />
+
+        <Button
+            android:id="@+id/practiceListening"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/listening" />
+
+        <Button
+            android:id="@+id/practiceReading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/reading" />
+
+        <Button
+            android:id="@+id/practiceSpeaking"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/speaking" />
+
+        <Button
+            android:id="@+id/practiceNextLevel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/NextLevel" />
+
+        <Button
+            android:id="@+id/practiceBack"
+            android:layout_width="226dp"
+            android:layout_height="wrap_content"
+            android:text="@string/back" />
+
+    </LinearLayout>
+
+
+</ScrollView>

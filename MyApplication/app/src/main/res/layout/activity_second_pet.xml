@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".secondPet">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/imageView19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/kou"
+            app:srcCompat="@drawable/petdoiinceput" />
+
+        <ImageView
+            android:id="@+id/imageView23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/yutjtf"
+            app:srcCompat="@drawable/petdoiintrebari" />
+
+        <ImageView
+            android:id="@+id/imageView31"
+            android:layout_width="match_parent"
+            android:layout_height="614dp"
+            app:srcCompat="@drawable/petdoiunu"
+            android:contentDescription="@string/todo" />
+
+        <EditText
+            android:id="@+id/pt2.1.1"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            android:autofillHints=""
+            tools:ignore="LabelFor"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_1"
+             />
+
+        <EditText
+            android:id="@+id/pt2.1.2"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_2"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/pt2.1.3"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_3" />
+
+        <EditText
+            android:id="@+id/pt2.1.4"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_4" />
+
+        <EditText
+            android:id="@+id/pt2.1.5"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_5" />
+
+        <EditText
+            android:id="@+id/pt2.1.6"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_6" />
+
+        <EditText
+            android:id="@+id/pt2.1.7"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_7" />
+
+        <EditText
+            android:id="@+id/pt2.1.8"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_8" />
+
+        <EditText
+            android:id="@+id/pt2.1.9"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_9" />
+
+        <EditText
+            android:id="@+id/pt2.1.10"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_10" />
+
+        <ImageView
+            android:id="@+id/imageView32"
+            android:layout_width="match_parent"
+            android:layout_height="597dp"
+            app:srcCompat="@drawable/petdoidoi"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/imageView33"
+            android:layout_width="match_parent"
+            android:layout_height="227dp"
+            android:contentDescription="@string/lilijlnm"
+            app:srcCompat="@drawable/petdoitrei" />
+
+        <EditText
+            android:id="@+id/pt2.2.1"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_1" />
+
+        <EditText
+            android:id="@+id/pt2.2.2"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_2" />
+
+        <EditText
+            android:id="@+id/pt2.2.3"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_3" />
+
+        <EditText
+            android:id="@+id/pt2.2.4"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_4" />
+
+        <EditText
+            android:id="@+id/pt2.2.5"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_5"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/pt2.2.6"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_6" />
+
+        <EditText
+            android:id="@+id/pt2.2.7"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_7" />
+
+        <ImageView
+            android:id="@+id/imageView34"
+            android:layout_width="match_parent"
+            android:layout_height="553dp"
+            android:contentDescription="@string/tyutrtgfhbgv"
+            app:srcCompat="@drawable/petdoipatru" />
+
+        <ImageView
+            android:id="@+id/imageView35"
+            android:layout_width="match_parent"
+            android:layout_height="534dp"
+            android:contentDescription="@string/trdrsrfvcd"
+            app:srcCompat="@drawable/petdoicinci" />
+
+        <EditText
+            android:id="@+id/pt2.3.1"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_1" />
+
+        <EditText
+            android:id="@+id/pt2.3.2"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_2" />
+
+        <EditText
+            android:id="@+id/pt2.3.3"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_3" />
+
+        <EditText
+            android:id="@+id/pt2.3.4"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_4" />
+
+        <EditText
+            android:id="@+id/pt2.3.5"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_5" />
+
+        <ImageView
+            android:id="@+id/imageView36"
+            android:layout_width="match_parent"
+            android:layout_height="581dp"
+            android:contentDescription="@string/tgrfdgfr"
+            app:srcCompat="@drawable/petdoisase" />
+
+        <ImageView
+            android:id="@+id/imageView37"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/rthgrvfdcsxcg"
+            app:srcCompat="@drawable/petdoisapte" />
+
+        <EditText
+            android:id="@+id/pt2.4.1"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_1" />
+
+        <EditText
+            android:id="@+id/pt2.4.2"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_2" />
+
+        <EditText
+            android:id="@+id/pt2.4.3"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_3" />
+
+        <EditText
+            android:id="@+id/pt2.4.4"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_4" />
+
+        <EditText
+            android:id="@+id/pt2.4.5"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_5" />
+
+        <ImageView
+            android:id="@+id/imageView38"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/nhnhnnh"
+            app:srcCompat="@drawable/petdoiopt" />
+
+        <ImageView
+            android:id="@+id/imageView39"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/nhbgvgggggg"
+            app:srcCompat="@drawable/petdoinoua" />
+
+        <EditText
+            android:id="@+id/pt2.5.1"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_1" />
+
+        <EditText
+            android:id="@+id/pt2.5.2"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_2" />
+
+        <EditText
+            android:id="@+id/pt2.5.3"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_3" />
+
+        <EditText
+            android:id="@+id/pt2.5.4"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_4" />
+
+        <EditText
+            android:id="@+id/pt2.5.5"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_5" />
+
+        <EditText
+            android:id="@+id/pt2.5.6"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_6" />
+
+        <EditText
+            android:id="@+id/pt2.5.7"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_7" />
+
+        <ImageView
+            android:id="@+id/imageView40"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/juhytgfrdbnbv"
+            app:srcCompat="@drawable/pedoizece" />
+
+        <ImageView
+            android:id="@+id/imageView41"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/kiyu"
+            app:srcCompat="@drawable/petdoiunspe" />
+
+        <EditText
+            android:id="@+id/pt2.6.1"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_1" />
+
+        <EditText
+            android:id="@+id/pt2.6.2"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_2" />
+
+        <EditText
+            android:id="@+id/pt2.6.3"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_3" />
+
+        <EditText
+            android:id="@+id/pt2.6.4"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_4" />
+
+        <EditText
+            android:id="@+id/pt2.6.5"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_5" />
+
+        <EditText
+            android:id="@+id/pt2.6.6"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_6" />
+
+        <EditText
+            android:id="@+id/pt2.6.7"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_7" />
+
+        <EditText
+            android:id="@+id/pt2.6.8"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_8" />
+
+        <EditText
+            android:id="@+id/pt2.6.9"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_9" />
+
+        <EditText
+            android:id="@+id/pt2.6.10"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_10" />
+
+        <ImageView
+            android:id="@+id/imageView42"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/jhtbgrvdfc"
+            app:srcCompat="@drawable/petdoidoispe" />
+
+        <EditText
+            android:id="@+id/pt2.7.1"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_1" />
+
+        <EditText
+            android:id="@+id/pt2.7.2"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_2" />
+
+        <EditText
+            android:id="@+id/pt2.7.3"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_3" />
+
+        <EditText
+            android:id="@+id/pt2.7.4"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_4" />
+
+        <EditText
+            android:id="@+id/pt2.7.5"
+            android:layout_width="187dp"
+            android:layout_height="35dp"
+            android:textSize="12sp"
+            tools:ignore="LabelFor"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/_5" />
+
+        <Button
+            android:id="@+id/finPet2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/finishpet2" />
+
+        <TextView
+            android:id="@+id/checkNull"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</ScrollView>

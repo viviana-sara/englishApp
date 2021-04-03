@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity android:name=".VisitActivity"></activity>
+        <activity android:name=".LogIn" />
+        <activity android:name=".UpdateActivity" />
+        <activity android:name=".DeleteAccount" />
+        <activity android:name=".AddActivity" />
+        <activity android:name=".ParinteActivity" />
+        <activity android:name=".ListeningB1" />
+        <activity android:name=".ListeningA2" />
+        <activity android:name=".ListeningA1" />
+        <activity android:name=".ReadingB" />
+        <activity android:name=".ReadingA" />
+        <activity android:name=".GrammarActivity" />
+        <activity android:name=".PracticeActivity" />
+        <activity android:name=".CopilActivity" />
+        <activity android:name=".PastExercitii" />
+        <activity android:name=".PastTeorie" />
+        <activity android:name=".PresentSImpleEx" />
+        <activity android:name=".PresentSimpleTeorie" />
+        <activity android:name=".SuperlativExercises" />
+        <activity android:name=".SuperlativTeorie" />
+        <activity android:name=".PluralEx" />
+        <activity android:name=".PluralTeorie" />
+        <activity android:name=".NumeralExercitii" />
+        <activity android:name=".NumeralTeorie" />
+        <activity android:name=".exercisesPronume" />
+        <activity android:name=".PronumeTeorie" />
+        <activity android:name=".thirdPet" />
+        <activity android:name=".secondPet" />
+        <activity android:name=".firstPet" />
+        <activity android:name=".AdminActivity" />
+        <activity android:name=".MainActivity2" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.MyApplication.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

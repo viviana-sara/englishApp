@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GrammarActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="match_parent"
+            android:layout_height="74dp"
+            android:gravity="center"
+            android:text="@string/grammar"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            app:autoSizeTextType="uniform"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="27dp" />
+
+        <ImageView
+            android:id="@+id/imageView16"
+            android:layout_width="wrap_content"
+            android:layout_height="241dp"
+            android:contentDescription="@string/plpk"
+            app:srcCompat="@drawable/grammar"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="81dp" />
+
+        <Button
+            android:id="@+id/grammarPron"
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:text="@string/pronouns"
+            tools:layout_editor_absoluteX="35dp"
+            tools:layout_editor_absoluteY="355dp" />
+
+        <Button
+            android:id="@+id/grammarNum"
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:text="@string/numbers_chart"
+            tools:layout_editor_absoluteX="35dp"
+            tools:layout_editor_absoluteY="564dp" />
+
+        <Button
+            android:id="@+id/grammarPast"
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:text="@string/past_simple_and_continuous2"
+            tools:layout_editor_absoluteX="35dp"
+            tools:layout_editor_absoluteY="505dp" />
+
+        <Button
+            android:id="@+id/grammarPresent"
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:text="@string/present_simple_and_continuous"
+            tools:layout_editor_absoluteX="35dp"
+            tools:layout_editor_absoluteY="402dp" />
+
+        <Button
+            android:id="@+id/grammarPlural"
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:text="@string/plural_nouns"
+            tools:layout_editor_absoluteX="35dp"
+            tools:layout_editor_absoluteY="449dp" />
+
+        <Button
+            android:id="@+id/grammarSuper"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/adjectives_degrees_of_comparison3" />
+
+        <Button
+            android:id="@+id/grammarBack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/back3" />
+
+    </LinearLayout>
+
+
+
+</ScrollView>
